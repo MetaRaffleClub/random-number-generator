@@ -13,4 +13,4 @@ The file winner_generator is essentially the same file as general_generator. Thi
 
 The file winners_winners_list.csv is a csv file to store all the monthly winners so that number does not repeats itself the next month.	
 
-Disclaimer: We are using rookies in coding so please excuse us in the long winded code because we can’t import our own script using “Visual Studio Code”
+
